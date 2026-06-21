@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>
+        🎮 GameFinder IR
+    </title>
+
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="hero">
+
+        <h1>
+            🎮 GameFinder IR
+        </h1>
+
+        <p>
+            Search Engine Game Berbasis
+            Information Retrieval
+        </p>
+
+        <div class="search-box">
+
+            <input
+
+                id="searchInput"
+
+                type="text"
+
+                placeholder=
+                "Cari game, genre, atau keyword..."
+
+            >
+
+            <button
+                onclick="searchGame()"
+            >
+                Search
+            </button>
+
+        </div>
+
+    </div>
+
+    <div class="suggestions">
+
+        <span
+            onclick="fillKeyword('fps')"
+        >
+            🎯 FPS
+        </span>
+
+        <span
+            onclick="fillKeyword('open world')"
+        >
+            🌍 Open World
+        </span>
+
+        <span
+            onclick="fillKeyword('rpg')"
+        >
+            ⚔️ RPG
+        </span>
+
+        <span
+            onclick="fillKeyword('survival')"
+        >
+            🏕️ Survival
+        </span>
+
+        <span
+            onclick="fillKeyword('horror')"
+        >
+            👻 Horror
+        </span>
+                <span
+            onclick="fillKeyword('moba')"
+        >
+            🔥 MOBA
+        </span>
+
+        <span
+            onclick="fillKeyword('racing')"
+        >
+            🏎️ Racing
+        </span>
+
+        <span
+            onclick="fillKeyword('battle royale')"
+        >
+            🎮 Battle Royale
+        </span>
+
+    </div>
+
+    <div id="results">
+
+        <h3>
+            🔍 Mulai pencarian untuk
+            menemukan game favoritmu
+        </h3>
+
+    </div>
+
+</div>
+
+<script
+    src="script.js"
+></script>
+
+</body>
+
+</html>

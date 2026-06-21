@@ -1,0 +1,502 @@
+[
+  {
+    "title": "Valorant",
+    "genre": "FPS Tactical",
+    "description": "5v5 tactical shooter with unique agents and competitive gameplay"
+  },
+  {
+    "title": "Counter Strike 2",
+    "genre": "FPS Competitive",
+    "description": "Competitive first person shooter focused on strategy and teamwork"
+  },
+  {
+    "title": "Apex Legends",
+    "genre": "Battle Royale FPS",
+    "description": "Fast paced battle royale with unique legends and abilities"
+  },
+  {
+    "title": "Fortnite",
+    "genre": "Battle Royale",
+    "description": "Battle royale game with building mechanics and seasonal content"
+  },
+  {
+    "title": "PUBG Battlegrounds",
+    "genre": "Battle Royale Survival",
+    "description": "Realistic battle royale survival shooter"
+  },
+  {
+    "title": "Call of Duty Warzone",
+    "genre": "Battle Royale FPS",
+    "description": "Large scale battle royale with modern warfare combat"
+  },
+  {
+    "title": "Rainbow Six Siege",
+    "genre": "FPS Tactical",
+    "description": "Team based tactical shooter with destructible environments"
+  },
+  {
+    "title": "Overwatch 2",
+    "genre": "Hero Shooter",
+    "description": "Team based hero shooter with unique characters"
+  },
+  {
+    "title": "Battlefield 2042",
+    "genre": "FPS Military",
+    "description": "Large scale military shooter with vehicles and warfare"
+  },
+  {
+    "title": "Escape From Tarkov",
+    "genre": "FPS Survival",
+    "description": "Hardcore extraction shooter with realistic gameplay"
+  },
+  {
+    "title": "Minecraft",
+    "genre": "Sandbox Survival",
+    "description": "Open world crafting and survival game with unlimited creativity"
+  },
+  {
+    "title": "Terraria",
+    "genre": "Sandbox Adventure",
+    "description": "2D sandbox adventure with crafting exploration and bosses"
+  },
+  {
+    "title": "Rust",
+    "genre": "Survival Crafting",
+    "description": "Multiplayer survival game focused on crafting and base building"
+  },
+  {
+    "title": "The Forest",
+    "genre": "Survival Horror",
+    "description": "Survive on an island while facing dangerous mutants"
+  },
+  {
+    "title": "Sons of the Forest",
+    "genre": "Survival Horror",
+    "description": "Open world survival horror with crafting and exploration"
+  },
+  {
+    "title": "ARK Survival Ascended",
+    "genre": "Survival Adventure",
+    "description": "Survive in a world filled with dinosaurs and crafting systems"
+  },
+  {
+    "title": "Palworld",
+    "genre": "Survival Crafting",
+    "description": "Creature collecting survival game with base building"
+  },
+  {
+    "title": "Subnautica",
+    "genre": "Survival Exploration",
+    "description": "Underwater survival adventure on an alien planet"
+  },
+  {
+    "title": "Valheim",
+    "genre": "Survival Crafting",
+    "description": "Viking themed survival game with exploration and building"
+  },
+  {
+    "title": "No Mans Sky",
+    "genre": "Space Exploration",
+    "description": "Explore procedurally generated planets and galaxies"
+  },
+  {
+    "title": "Genshin Impact",
+    "genre": "Open World RPG",
+    "description": "Anime style action role playing game with exploration"
+  },
+  {
+    "title": "Wuthering Waves",
+    "genre": "Open World RPG",
+    "description": "Fast paced anime action RPG with exploration mechanics"
+  },
+  {
+    "title": "Honkai Star Rail",
+    "genre": "Turn Based RPG",
+    "description": "Science fiction turn based RPG with strategic combat"
+  },
+  {
+    "title": "Elden Ring",
+    "genre": "Action RPG",
+    "description": "Open world fantasy RPG with challenging combat"
+  },
+  {
+    "title": "The Witcher 3",
+    "genre": "Open World RPG",
+    "description": "Story rich fantasy RPG featuring monster hunting"
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "genre": "Open World RPG",
+    "description": "Futuristic role playing game set in Night City"
+  },
+  {
+    "title": "Skyrim",
+    "genre": "Fantasy RPG",
+    "description": "Open world fantasy adventure with dragons and magic"
+  },
+  {
+    "title": "Dragon Age Inquisition",
+    "genre": "Fantasy RPG",
+    "description": "Story driven fantasy role playing adventure"
+  },
+  {
+    "title": "Baldurs Gate 3",
+    "genre": "Turn Based RPG",
+    "description": "Fantasy role playing game with deep choices and story"
+  },
+  {
+    "title": "Persona 5 Royal",
+    "genre": "JRPG",
+    "description": "Stylish Japanese role playing game with social systems"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "genre": "Open World Adventure",
+    "description": "Western themed story driven open world experience"
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "genre": "Open World Action",
+    "description": "Crime focused open world action adventure game"
+  },
+  {
+    "title": "Watch Dogs 2",
+    "genre": "Open World Action",
+    "description": "Hack technology and explore a modern city"
+  },
+  {
+    "title": "Assassins Creed Valhalla",
+    "genre": "Action RPG",
+    "description": "Viking themed action role playing adventure"
+  },
+  {
+    "title": "Ghost of Tsushima",
+    "genre": "Action Adventure",
+    "description": "Samurai open world adventure set in feudal Japan"
+  },
+  {
+    "title": "Days Gone",
+    "genre": "Open World Survival",
+    "description": "Survive in a zombie infested open world"
+  },
+  {
+    "title": "Dying Light 2",
+    "genre": "Zombie Survival",
+    "description": "Parkour based zombie survival action game"
+  },
+  {
+    "title": "State of Decay 2",
+    "genre": "Zombie Survival",
+    "description": "Build communities and survive zombie outbreaks"
+  },
+  {
+    "title": "Project Zomboid",
+    "genre": "Zombie Survival",
+    "description": "Hardcore zombie survival simulation game"
+  },
+  {
+    "title": "Dead Island 2",
+    "genre": "Zombie Action",
+    "description": "Action focused zombie survival experience"
+  },
+  {
+    "title": "League of Legends",
+    "genre": "MOBA",
+    "description": "Competitive multiplayer online battle arena game"
+  },
+  {
+    "title": "Dota 2",
+    "genre": "MOBA",
+    "description": "Strategic multiplayer online battle arena with heroes"
+  },
+  {
+    "title": "Mobile Legends",
+    "genre": "MOBA",
+    "description": "Fast paced mobile multiplayer online battle arena"
+  },
+  {
+    "title": "Smite",
+    "genre": "MOBA",
+    "description": "Third person multiplayer online battle arena game"
+  },
+  {
+    "title": "Heroes of the Storm",
+    "genre": "MOBA",
+    "description": "Team based battleground game with iconic heroes"
+  },
+  {
+    "title": "Rocket League",
+    "genre": "Sports Competitive",
+    "description": "Soccer game played with rocket powered cars"
+  },
+  {
+    "title": "EA Sports FC 26",
+    "genre": "Sports Football",
+    "description": "Football simulation game with clubs and tournaments"
+  },
+  {
+    "title": "eFootball",
+    "genre": "Sports Football",
+    "description": "Competitive football simulation game"
+  },
+  {
+    "title": "Forza Horizon 5",
+    "genre": "Racing Open World",
+    "description": "Open world racing game featuring hundreds of cars"
+  },
+  {
+    "title": "Need for Speed Heat",
+    "genre": "Racing Arcade",
+    "description": "Street racing game with customization and pursuits"
+  },
+{
+  "title": "Assetto Corsa",
+  "genre": "Racing Simulation",
+  "description": "Realistic racing simulator with detailed driving physics"
+},
+{
+  "title": "Gran Turismo 7",
+  "genre": "Racing Simulation",
+  "description": "Professional racing simulator with licensed vehicles"
+},
+{
+  "title": "F1 25",
+  "genre": "Racing Formula",
+  "description": "Formula racing simulation with official teams and drivers"
+},
+{
+  "title": "Euro Truck Simulator 2",
+  "genre": "Driving Simulation",
+  "description": "Truck driving simulation across European countries"
+},
+{
+  "title": "American Truck Simulator",
+  "genre": "Driving Simulation",
+  "description": "Drive trucks and deliver cargo across America"
+},
+{
+  "title": "Microsoft Flight Simulator",
+  "genre": "Flight Simulation",
+  "description": "Realistic flight simulator featuring the entire world"
+},
+{
+  "title": "Stardew Valley",
+  "genre": "Farming Simulation",
+  "description": "Relaxing farming and life simulation role playing game"
+},
+{
+  "title": "Animal Crossing New Horizons",
+  "genre": "Life Simulation",
+  "description": "Build and customize your island community"
+},
+{
+  "title": "The Sims 4",
+  "genre": "Life Simulation",
+  "description": "Create characters and manage virtual lives"
+},
+{
+  "title": "Cities Skylines",
+  "genre": "City Builder",
+  "description": "Build and manage a growing modern city"
+},
+{
+  "title": "Cities Skylines 2",
+  "genre": "City Builder",
+  "description": "Advanced city building and management simulation"
+},
+{
+  "title": "Civilization VI",
+  "genre": "Strategy Turn Based",
+  "description": "Build an empire and lead civilization through history"
+},
+{
+  "title": "Age of Empires IV",
+  "genre": "RTS Strategy",
+  "description": "Historical real time strategy warfare game"
+},
+{
+  "title": "StarCraft II",
+  "genre": "RTS Strategy",
+  "description": "Competitive science fiction real time strategy game"
+},
+{
+  "title": "Warcraft III",
+  "genre": "RTS Fantasy",
+  "description": "Fantasy strategy game with heroes and armies"
+},
+{
+  "title": "Total War Warhammer III",
+  "genre": "Strategy Fantasy",
+  "description": "Large scale fantasy warfare and empire management"
+},
+{
+  "title": "Crusader Kings III",
+  "genre": "Grand Strategy",
+  "description": "Medieval dynasty and kingdom management simulator"
+},
+{
+  "title": "Europa Universalis IV",
+  "genre": "Grand Strategy",
+  "description": "Lead nations through diplomacy warfare and expansion"
+},
+{
+  "title": "Hearts of Iron IV",
+  "genre": "World War Strategy",
+  "description": "Grand strategy game set during World War II"
+},
+{
+  "title": "Football Manager 2024",
+  "genre": "Sports Management",
+  "description": "Manage football clubs transfers and tactics"
+},
+{
+  "title": "Tekken 8",
+  "genre": "Fighting",
+  "description": "Competitive fighting game with diverse characters"
+},
+{
+  "title": "Street Fighter 6",
+  "genre": "Fighting",
+  "description": "Classic fighting game with modern mechanics"
+},
+{
+  "title": "Mortal Kombat 1",
+  "genre": "Fighting",
+  "description": "Violent fighting game with cinematic battles"
+},
+{
+  "title": "Dragon Ball Sparking Zero",
+  "genre": "Anime Fighting",
+  "description": "Large scale anime battles based on Dragon Ball"
+},
+{
+  "title": "Naruto Ultimate Ninja Storm 4",
+  "genre": "Anime Fighting",
+  "description": "Fast paced ninja combat with anime characters"
+},
+{
+  "title": "Monster Hunter World",
+  "genre": "Action RPG",
+  "description": "Hunt giant monsters and craft powerful equipment"
+},
+{
+  "title": "Monster Hunter Wilds",
+  "genre": "Action RPG",
+  "description": "Open environments and large scale monster hunts"
+},
+{
+  "title": "Black Desert Online",
+  "genre": "MMORPG",
+  "description": "Fantasy online role playing game with action combat"
+},
+{
+  "title": "World of Warcraft",
+  "genre": "MMORPG",
+  "description": "Massively multiplayer fantasy adventure world"
+},
+{
+  "title": "Final Fantasy XIV",
+  "genre": "MMORPG",
+  "description": "Story rich online role playing game"
+},
+{
+  "title": "Lost Ark",
+  "genre": "MMORPG",
+  "description": "Action focused online fantasy adventure"
+},
+{
+  "title": "Guild Wars 2",
+  "genre": "MMORPG",
+  "description": "Fantasy online world with dynamic events"
+},
+{
+  "title": "Path of Exile",
+  "genre": "Action RPG",
+  "description": "Dark fantasy action RPG with deep character builds"
+},
+{
+  "title": "Diablo IV",
+  "genre": "Action RPG",
+  "description": "Dark fantasy dungeon crawling action RPG"
+},
+{
+  "title": "Hades",
+  "genre": "Roguelike Action",
+  "description": "Fast paced roguelike game inspired by Greek mythology"
+},
+{
+  "title": "Dead Cells",
+  "genre": "Roguelike Action",
+  "description": "Challenging roguelike platformer with fluid combat"
+},
+{
+  "title": "Hollow Knight",
+  "genre": "Metroidvania",
+  "description": "Explore a mysterious underground kingdom"
+},
+{
+  "title": "Ori and the Will of the Wisps",
+  "genre": "Metroidvania",
+  "description": "Beautiful adventure platformer with emotional story"
+},
+{
+  "title": "Celeste",
+  "genre": "Platformer",
+  "description": "Precision platforming game with challenging levels"
+},
+{
+  "title": "Cuphead",
+  "genre": "Platformer Action",
+  "description": "Hand drawn action platformer with difficult boss fights"
+},
+{
+  "title": "Resident Evil 4 Remake",
+  "genre": "Survival Horror",
+  "description": "Horror action game with survival mechanics"
+},
+{
+  "title": "Resident Evil Village",
+  "genre": "Survival Horror",
+  "description": "First person horror adventure with monsters"
+},
+{
+  "title": "Silent Hill 2 Remake",
+  "genre": "Psychological Horror",
+  "description": "Story driven horror experience in a mysterious town"
+},
+{
+  "title": "Outlast",
+  "genre": "Horror",
+  "description": "Escape terrifying enemies inside an asylum"
+},
+{
+  "title": "Amnesia The Bunker",
+  "genre": "Horror Survival",
+  "description": "Survive inside a dark underground bunker"
+},
+{
+  "title": "Phasmophobia",
+  "genre": "Coop Horror",
+  "description": "Investigate paranormal activities with friends"
+},
+{
+  "title": "Lethal Company",
+  "genre": "Coop Horror",
+  "description": "Explore dangerous facilities and collect resources"
+},
+{
+  "title": "Among Us",
+  "genre": "Social Deduction",
+  "description": "Multiplayer social deduction and deception game"
+},
+{
+  "title": "Fall Guys",
+  "genre": "Party Multiplayer",
+  "description": "Colorful multiplayer obstacle course competition"
+},
+{
+  "title": "Human Fall Flat",
+  "genre": "Puzzle Multiplayer",
+  "description": "Physics based puzzle adventure with cooperative gameplay"
+}
+]
